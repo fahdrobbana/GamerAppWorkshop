@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">GamerApp</string>
+    <string name="Remember_me">Remember Me</string>
+    <string name="Gamer">Gamer Logo</string>
+    <string name="Password">Password</string>
+    <string name="confirmpassword">Confirm Password</string>
+    <string name="Submit">Submit</string>
+    <string name="enterforgotpassword"><b>Please enter your registered email to reset your password</b></string>
+    <string name="or"><b>OR</b></string>
+    <string name="sendsms">Send SMS</string>
+    <string name="otpvalidation">Enter the code sent to you by email or mobile number</string>
+    <string name="notreceive">Did not receive a verification code?</string>
+    <string name="resend"><u>Resend code</u></string>
+    <string name="newpassword">Please enter your new password and confirm it</string>
+
+</resources>
